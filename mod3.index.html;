@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://fayzullonewcoder.github.io/ResponsiveWS/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./Restaurant_files/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="./Restaurant_files/style.css">
+    <title>Restaurant</title>
+</head>
+
+<body data-gr-c-s-loaded="true">
+    <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+        <a class="navbar-brand" href="https://fayzullonewcoder.github.io/ResponsiveWS/#">Food, LCC</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="https://fayzullonewcoder.github.io/ResponsiveWS/#">Chicken <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="https://fayzullonewcoder.github.io/ResponsiveWS/#">Beef</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="https://fayzullonewcoder.github.io/ResponsiveWS/#">Sushi</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <br>
+    <div class="menu">
+        <h2>Our Menu</h2>
+    </div>
+    <br>
+    <div class="container">
+        <h4>Chicken</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsum natus, cupiditate consequatur error, ex soluta dolor voluptatem magni est numquam facere ipsam. Magni, modi animi corrupti molestias voluptatibus ducimus. Lorem ipsum dolor sit
+            amet consectetur adipisicing elit. Atque quis quaerat vero dignissimos distinctio nulla eaque aut odio consequuntur provident itaque praesentium cumque voluptatibus, veritatis at. Aspernatur sunt error tempora. Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Atque odit blanditiis ullam eum repellendus impedit illum, odio a dicta numquam minus explicabo quidem! Deserunt fugit aliquam ratione eligendi, officia repudiandae! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Reprehenderit eaque ad saepe autem explicabo, dignissimos, consequuntur ea accusamus neque, laboriosam sit eveniet itaque facere aut. Est numquam recusandae facilis earum.</p>
+    </div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="./Restaurant_files/jquery-3.5.1.slim.min.js.download" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="./Restaurant_files/popper.min.js.download" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="./Restaurant_files/bootstrap.min.js.download" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="./Restaurant_files/main.js.download"></script>
+
+
+</body></html>
